@@ -6,6 +6,7 @@ import RadioButton from './components/radioButton';
 import ToggleButton from './components/toggleButton';
 import Checklist from './components/checklist';
 import CarouselDemo from './components/carouselDemo';
+import './styles/app.css';
 
 function App() {
   return (
