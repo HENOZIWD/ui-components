@@ -8,6 +8,6 @@
   },
   "rules": {
     "import/prefer-default-export": "off",
-    "max-len": ["error", { "code" : 100 }]
+    "max-len": "off"
   }
 }
